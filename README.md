@@ -1,1 +1,1 @@
-# personal-webpage
+# In this task, you are going to be creating a personal webpage. Make sure that this webpage acts as a resume and introduces you to the world effectively. Strike a balance in your content — this webpage should show more of your personality than a typical CV but it should still be professional.
